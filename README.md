@@ -1,7 +1,7 @@
 ### Hi, I am Gopal Gawade.
 #### - I am currently studying 'Full Stack Development' course at the Digikull institute.
-- B.E. in Electronics.
-- Diploma in Electronics & Telecommunications.
+#### - B.E. in Electronics.
+#### - Diploma in Electronics & Telecommunications.
 
 Profiles:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GopalGawade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linkedin.com/in/gopal-gawade-5098b71ba//)
