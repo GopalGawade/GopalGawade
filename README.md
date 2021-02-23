@@ -3,7 +3,7 @@
 - B.E. in Electronics.
 - Diploma in Electronics & Telecommunications.
 
-- Profiles:
+Profiles:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GopalGawade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linkedin.com/in/gopal-gawade-5098b71ba//)
 
 Skills: Electronics, HTML, CSS, JavaScript, Bootstrap, React, Django, MySQL.
