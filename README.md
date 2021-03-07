@@ -1,12 +1,12 @@
-## Hi, I am Gopal Gawade.
-### - I am currently studying 'Full Stack Development' course at the Digikull institute.
-### - B.E. in Electronics.
-### - Diploma in Electronics & Telecommunications.
+### Hi, I am Gopal Gawade.
+#### - I am currently studying 'Full Stack Development' course at the Digikull institute.
+#### - B.E. in Electronics.
+#### - Diploma in Electronics & Telecommunications.
 
-Profiles:
+### Profiles:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GopalGawade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linkedin.com/in/gopal-gawade-5098b71ba//)
 
-Skills: Electronics, HTML, CSS, JavaScript, Bootstrap, React, Python, Django, MySQL.
+#### Skills: Electronics, HTML, CSS, JavaScript, Bootstrap, React, Python, Django, MySQL.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
