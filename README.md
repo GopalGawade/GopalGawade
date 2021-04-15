@@ -1,5 +1,5 @@
-## Hi, I am Gopal Gawade.
-### - I am currently studying 'Full Stack Development' course at the Digikull institute.
+### Hi, I am Gopal Gawade.
+#### - I am currently studying 'Full Stack Development' course at the Digikull institute.
 #### - B.E. in Electronics.
 #### - Diploma in Electronics & Telecommunications.
 
